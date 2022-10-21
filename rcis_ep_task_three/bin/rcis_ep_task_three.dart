@@ -12,7 +12,7 @@ void main(){
   
   while (a != ''){
     if (a == ''){
-      break;
+      break; 
     }
 
     massive.add(a); 
