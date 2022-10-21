@@ -3,7 +3,7 @@ import 'dart:math';
 
 void main(){
   //zadanie 2 pr 1.1
-
+ 
   List<int> massive = [];
 
   stdout.write('Введите числа: \n');
