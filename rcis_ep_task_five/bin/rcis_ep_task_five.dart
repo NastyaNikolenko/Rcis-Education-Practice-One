@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:math';
 
 void main(){
-  zadanie 5 pr 1.1
+  //zadanie 5 pr 1.1
 
   stdout.write('Введите строку: \n');
   String a = stdin.readLineSync()!;
