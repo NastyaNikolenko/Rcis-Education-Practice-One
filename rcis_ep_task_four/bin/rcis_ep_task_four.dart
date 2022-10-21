@@ -1,7 +1,7 @@
 import 'dart:io';
 import 'dart:math';
 
-void main(){
+void main(){ 
   //zadanie 4 pr 1.1
 
   stdout.write('Введите начало диапозона: ');
