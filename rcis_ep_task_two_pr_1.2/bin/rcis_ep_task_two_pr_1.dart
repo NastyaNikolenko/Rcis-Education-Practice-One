@@ -2,7 +2,7 @@ import 'dart:io';
 import 'dart:math';
 
 void main(){
-  //zadanie 2 pr 1.2
+  //zadanie 2 pr 1.2 
 
   List<int> massive = [];
 
