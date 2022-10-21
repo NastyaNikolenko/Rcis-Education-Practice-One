@@ -9,7 +9,7 @@ void main() {
 
   List matrix = List.generate(n, (_) => List.filled(n, 0));
 
-  for (int i = 0; i < n; ++i){
+  for (int i = 0; i < n; ++i){ 
     matrix[i][0] = 1;
     matrix[0][i] = 1;
   }
