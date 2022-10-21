@@ -13,7 +13,7 @@ void main(){
 
     List<int> massive = List.filled(12, 0);
     for(int i = 0; i < 12; i++){
-        for(int j = 0; j < 30; j++){
+        for(int j = 0; j < 30; j++){ 
           massive[i] += temperature[i][j];
         }
       massive[i] = massive[i] ~/ 30;
