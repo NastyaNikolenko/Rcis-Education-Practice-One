@@ -10,7 +10,7 @@ void main(){
     for (int i = 0; i < 10; i++){
       int nums = Random().nextInt(20) + 20;
       massive.add(nums);
-    }
+    } 
     return massive;
   } 
   massive = massiveRandom(massive);
