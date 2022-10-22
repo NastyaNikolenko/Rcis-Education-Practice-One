@@ -6,7 +6,7 @@ void main(){
   List<int> massive = [];
 
   int a = 100;
-
+ 
   for (int i = 0; i < 100; i++){
     int nums = a - 3;
     a = nums;
