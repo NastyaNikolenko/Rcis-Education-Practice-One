@@ -7,7 +7,7 @@ void main() {
   dynamic temp = (myFile.readAsStringSync());
   List<String> array = temp.split(' ');
 
-  print('Слова нечетной длины: ');
+  print('Слова нечетной длины: '); 
 
   for (int i = 0; i < array.length; i++) {
     if (array[i].length % 2 == 1) {
