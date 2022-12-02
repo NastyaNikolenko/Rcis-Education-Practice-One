@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  //task 1 pr 1.5
+  //task 1 pr 1.5 
   File myFile = File('numsTask1.txt');
   dynamic temp = (myFile.readAsStringSync());
   List<String> home = temp.split(' ');
